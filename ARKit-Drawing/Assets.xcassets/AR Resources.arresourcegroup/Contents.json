@@ -4,6 +4,11 @@
     "author" : "xcode"
   },
   "resources" : [
-
+    {
+      "filename" : "sea.arreferenceimage"
+    },
+    {
+      "filename" : "winter.arreferenceimage"
+    }
   ]
 }
